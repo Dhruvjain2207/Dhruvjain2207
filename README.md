@@ -75,30 +75,19 @@ Backend Developer • Next.js • MERN • Building Scalable Web Apps
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhruvjain2207&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvjain2207&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhruvjain2207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhruvjain2207&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dhruvjain2207&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Dhruvjain2207&theme=tokyonight&hide_border=false" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruvjain2207&theme=tokyonight"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvjain2207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
-
----
 
 ## 🐉 Contribution Dragon
 
