@@ -12,40 +12,17 @@ Backend Developer • Next.js • MERN • Building Scalable Web Apps
 
 ## 🐉 About Me
 
-```cpp
-class DhruvJain {
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-public:
+🎓 **Computer Science Engineering** student at **NIT Patna**
 
-    string college = "NIT Patna";
+💻 Passionate about **Backend Development** and building scalable web applications.
 
-    string branch = "Computer Science";
+🚀 Currently exploring **Next.js** while strengthening my **Data Structures & Algorithms** skills.
 
-    string role = "Backend Developer";
+🌱 I enjoy turning ideas into real-world projects using modern web technologies.
 
-    vector<string> tech = {
-
-        "Next.js",
-
-        "React",
-
-        "Node.js",
-
-        "Express",
-
-        "MongoDB",
-
-        "TypeScript"
-
-    };
-
-    string currentFocus =
-
-        "Next.js + DSA";
-
-};
-```
-
+🎯 My goal is to become a skilled **Software Development Engineer** and contribute to impactful products.
 ---
 
 ## 🌐 Connect With Me
