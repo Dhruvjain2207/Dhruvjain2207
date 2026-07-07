@@ -80,14 +80,10 @@ Backend Developer • Next.js • MERN • Building Scalable Web Apps
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhruvjain2207&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvjain2207&theme=tokyonight&hide_border=false" />
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvjain2207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 ## 🐉 Contribution Dragon
 
