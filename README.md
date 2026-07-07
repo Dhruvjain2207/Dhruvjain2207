@@ -5,10 +5,11 @@ Backend Developer • Next.js • MERN • Building Scalable Web Apps
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Science+Student+at+NIT+Patna;Backend+Developer;Next.js+%7C+Node.js+%7C+MongoDB;Learning+Next.js+and+DSA;Always+Building+🚀"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+at+NIT+Patna;Backend+Developer;Next.js+%7C+Node.js+%7C+MongoDB;Building+Full+Stack+Applications;Always+Learning+Something+New+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
-
----
 
 ## 🐉 About Me
 
