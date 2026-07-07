@@ -85,18 +85,9 @@ Backend Developer • Next.js • MERN • Building Scalable Web Apps
 
 
 
-## 🐉 Contribution Dragon
-
-Coming Soon...
-
----
+## 🐉 Contribution Snake
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dhruvjain2207&label=Profile+Views&color=red&style=for-the-badge"/>
-
+  <img src="https://raw.githubusercontent.com/Dhruvjain2207/Dhruvjain2207/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
-
----
-
 > "Every commit feeds the dragon."
