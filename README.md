@@ -72,16 +72,15 @@ Backend Developer • Next.js • MERN • Building Scalable Web Apps
 - Weather API
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhruvjain2207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhruvjain2207&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Dhruvjain2207&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dhruvjain2207&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvjain2207&theme=tokyonight&hide_border=false" />
+  <img src="https://github-streak-stats.demolab.com?user=Dhruvjain2207&theme=tokyonight&hide_border=false" />
 </p>
 
 
